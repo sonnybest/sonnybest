@@ -58,17 +58,7 @@ with the latest technologies in Data Engineering and Analytics domain.
 <br>
 
 <h2>🚀 Core Skills</h2>
-- SQL
-- Python
-- Azure Data Factory (ADF)
-- Databricks
-- Apache Spark
-- Delta Lake
-- Snowflake
-- Microsoft Fabric
-- Data Modeling
-- ETL / ELT
-- Medallion Architecture
-- Data Lakehouse / Warehouse
-- Azure Data Lake Storage Gen2
+<p align="center">
+SQL • Python • Azure Data Factory (ADF) • Databricks • Apache Spark • Delta Lake • Snowflake • Microsoft Fabric • Data Modeling • ETL/ELT • Medallion Architecture • Lakehouse Architecture • Azure Data Lake Storage Gen2
+</p>
 <br>
