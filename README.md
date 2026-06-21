@@ -58,39 +58,17 @@ with the latest technologies in Data Engineering and Analytics domain.
 <br>
 
 <h2>🚀 Core Skills</h2>
-
-<img width="975" height="756" alt="image" src="https://github.com/user-attachments/assets/fc9b99ce-1fac-4569-9d90-b7042ffbf415" />
-
-<img width="570" height="792" alt="professional-badge" src="https://github.com/user-attachments/assets/2f00a33b-5295-445e-8778-c1ef07cc1f44" />
-
-
+- SQL
+- Python
 - Azure Data Factory (ADF)
-- Azure Databricks
-- PySpark
+- Databricks
 - Apache Spark
 - Delta Lake
 - Snowflake
-- Azure Synapse Analytics
-- SQL
-- Python
+- Microsoft Fabric
 - Data Modeling
 - ETL / ELT
 - Medallion Architecture
-- Data Lakehouse
+- Data Lakehouse / Warehouse
 - Azure Data Lake Storage Gen2
-
 <br>
-
-<h2>📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SundayOkechukwu&show_icons=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SundayOkechukwu&layout=compact" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SundayOkechukwu" />
-</p>
