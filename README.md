@@ -3,7 +3,7 @@
 <hr>
 
 <p align="center">
-I am a passionate Data Engineer with experience turning raw data into meaningful insights.
+I am a Professional Data Engineer with experience turning raw data into meaningful insights.
 I work with modern tools such as Databricks, Delta Lake, Snowflake, AWS Glue, Azure Data Factory, Microsoft Fabric,
 and the Data Lakehouse to build efficient data pipelines and
 solutions in the cloud. I am continuously learning and improving my skills and staying up-to-date
