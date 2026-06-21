@@ -1,16 +1,43 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Sunday Okechukwu</h1>
 
-<!--
-**sonnybest/sonnybest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Azure Data Engineer | Databricks Engineer | Data Platform Architect
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Passionate Data Engineer specializing in Azure Data Factory, Databricks,
+Delta Lake, Synapse Analytics, and Modern Data Platforms.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🔭 Building end-to-end Azure Data Engineering solutions
+- 🌱 Learning advanced Databricks and Spark optimization
+- 👨‍💻 Microsoft Certified Azure Data Engineer
+- 💬 Ask me about Azure, Databricks, PySpark, SQL, Data Modeling
+
+---
+
+## 🌐 Connect with Me
+
+[LinkedIn](https://linkedin.com/in/YOUR_PROFILE)
+
+[YouTube](https://youtube.com/@YOUR_CHANNEL)
+
+---
+
+## 🛠️ Languages and Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,azure,git,linux,mysql,postgresql" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
