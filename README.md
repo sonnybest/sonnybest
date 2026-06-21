@@ -4,10 +4,10 @@
 
 <p align="center">
 I am a passionate Data Engineer with experience turning raw data into meaningful insights.
-I work with modern tools like Azure Data Factory, Databricks, Azure Synapse Analytics,
-Delta Lake, Snowflake, and the Data Lakehouse to build efficient data pipelines and
-solutions in the cloud. I am continuously improving my skills and staying up-to-date
-with the latest technologies in Data Engineering and Analytics.
+I work with modern tools such as Databricks, Delta Lake, Snowflake, AWS Glue, Azure Data Factory, Microsoft Fabric,
+and the Data Lakehouse to build efficient data pipelines and
+solutions in the cloud. I am continuously learning and improving my skills and staying up-to-date
+with the latest technologies in Data Engineering and Analytics domain.
 </p>
 
 <br>
@@ -17,7 +17,7 @@ with the latest technologies in Data Engineering and Analytics.
   <br>
   <li>💼 LinkedIn: <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">Your LinkedIn Profile</a></li>
   <br>
-  <li>📧 Email: your.email@example.com</li>
+  <li>📧 Email: sonnybest70@gmail.com</li>
 </ul>
 
 <br>
