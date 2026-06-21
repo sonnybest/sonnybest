@@ -15,7 +15,7 @@ with the latest technologies in Data Engineering and Analytics domain.
 <ul>
   <li>🔭 I’m a <b>Data Engineer</b></li>
   <br>
-  <li>💼 LinkedIn: <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">Your LinkedIn Profile</a></li>
+  <li>💼 LinkedIn: <a href="https://www.linkedin.com/in/sunday-okechukwu-747485184/">LinkedIn</a></li>
   <br>
   <li>📧 Email: sonnybest70@gmail.com</li>
 </ul>
