@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sunday Okechukwu</h1>
 
-<hr>
+<br>
 
 <p align="center">
 I am a Professional Data Engineer with experience turning raw data into meaningful insights.
