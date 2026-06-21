@@ -44,8 +44,6 @@ with the latest technologies in Data Engineering and Analytics.
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Snowflake_Logo.svg" width="70" height="50"/>
-
 
 <img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" width="50" height="50"/>
 
@@ -53,7 +51,7 @@ with the latest technologies in Data Engineering and Analytics.
 
 <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" width="50" height="50"/>
 
-<img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" width="50" height="50"/>
+
 
 </p>
 
