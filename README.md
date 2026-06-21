@@ -16,8 +16,8 @@ with the latest technologies in Data Engineering and Analytics domain.
   <li>🔭 I’m a <b>Data Engineer</b></li>
   <br>
   <li>💼 LinkedIn: <a href="https://www.linkedin.com/in/sunday-okechukwu-747485184/">LinkedIn</a></li>
-  <br>
-  <li>📧 Email: sonnybest70@gmail.com</li>
+  <!-- <br>
+  <li>📧 Email: sonnybest70@gmail.com</li> -->
 </ul>
 
 <br>
@@ -62,3 +62,6 @@ with the latest technologies in Data Engineering and Analytics domain.
 SQL • Python • Azure Data Factory (ADF) • Databricks • Apache Spark • Delta Lake • Snowflake • Microsoft Fabric • Data Modeling • ETL/ELT • Medallion Architecture • Lakehouse Architecture • Azure Data Lake Storage Gen2
 </p>
 <br>
+
+<img width="975" height="756" alt="image" src="https://github.com/user-attachments/assets/d4e06377-a9a9-4789-919f-651644c5518f" />
+
