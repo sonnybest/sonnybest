@@ -46,12 +46,6 @@ with the latest technologies in Data Engineering and Analytics.
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/spark-original.svg" width="50" height="50"/>
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Databricks_Logo.png" width="50" height="50"/>
-
-<img src="https://delta.io/static/images/Delta-Lake-Logo.png" width="50" height="50"/>
-
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Snowflake_Logo.svg" width="70" height="50"/>
 
 </p>
